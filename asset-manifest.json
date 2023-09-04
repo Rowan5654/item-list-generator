@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/item-list-generator/static/js/main.b3412e8b.js",
+    "index.html": "/item-list-generator/index.html",
+    "main.b3412e8b.js.map": "/item-list-generator/static/js/main.b3412e8b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b3412e8b.js"
+  ]
+}
